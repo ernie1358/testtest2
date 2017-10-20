@@ -1,2 +1,5 @@
 start Git practice
 second modified
+
+git add
+git commit
